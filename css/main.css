@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-family: "Georgia", serif;
+  font-family: Georgia, serif;
   line-height: 1.5;
   background-color: #f5f2f0;
 }
@@ -11,18 +11,19 @@ html {
 
 body {
   margin: 0;
-  padding: 1rem;
 }
 
 img {
   width: 100%;
-  padding: .5em .75em .6em
+  padding: .5em .75em .6em;
 }
 
 h1 {
   font-family: "Denk One", sans-serif;
   color: #623b0c;
+  padding: 1rem;
   padding-bottom: 0;
+
 }
 
 h2 {
@@ -37,8 +38,8 @@ ol {
   gap: 1rem;
   margin: 0;
   padding: 1rem;
+  padding-top: 0;
   background: #f5f2f0;
-
 }
 
 li {
@@ -61,5 +62,5 @@ a {
   text-align: left;
   color: #fff;
   margin: 1.5rem;
-  padding: .5em .75em .6em
+  padding: .5em .75em .6em;
 }
