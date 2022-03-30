@@ -23,13 +23,13 @@ h1 {
   color: #623b0c;
   padding: 1rem;
   padding-bottom: 0;
-
+  padding-top: 0
 }
 
 h2 {
   font-family: "Denk One", sans-serif;
   color: #623b0c;
-  margin: 1.5rem;
+  margin: 1rem;
 }
 
 ol {
