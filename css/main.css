@@ -14,6 +14,7 @@ body {
 }
 
 img {
+  width: 100%;
   padding: .5em .75em .6em;
 }
 
@@ -36,7 +37,7 @@ ol {
   grid-template-columns: 1fr 1fr;
   gap: 1rem;
   margin: 0;
-  padding: 1rem;
+  padding-top: 0;
   background: #f5f2f0;
 }
 
@@ -62,5 +63,6 @@ a {
   text-align: left;
   color: #fff;
   margin: 1.5rem;
+  margin-top: 0;
   padding: .5em .75em .6em;
 }
