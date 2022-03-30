@@ -27,5 +27,15 @@ ol {
   display: grid;
   grid-template: 1fr 1fr;
   gap: 1rem;
+  margin: 0;
+  padding:
+
+}
+
+li {
+  display: flex;
+  flex direction: column;
+  justify-content: flex-start;
+  background-color: #ede3db;
 
 }
