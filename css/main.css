@@ -23,7 +23,7 @@ h1 {
   color: #623b0c;
   padding: 1rem;
   padding-bottom: 0;
-  padding-top: 0
+  padding-top: 0;
 }
 
 h2 {
@@ -53,6 +53,8 @@ li {
 
 p {
   margin: 1.5rem;
+  margin-bottom: .5rem;
+  padding: 0;
 }
 
 a {
