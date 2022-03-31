@@ -13,10 +13,14 @@ body {
   margin: 0;
 }
 
+main {
+  padding: .5em .75em .6em;
+}
+
 img {
   width: 100%;
-  padding: .5em .75em .6em;
-  margin: 0 0 0;
+  margin: 0;
+  padding-bottom: 1.5rem;
 }
 
 h1 {
@@ -30,7 +34,6 @@ h1 {
 h2 {
   font-family: "Denk One", sans-serif;
   color: #623b0c;
-  margin: 1rem;
 }
 
 ol {
@@ -39,6 +42,7 @@ ol {
   gap: 1rem;
   margin: 1rem;
   padding-left: 0;
+
   background: #f5f2f0;
 }
 
@@ -49,10 +53,12 @@ li {
   background-color: #ede3db;
   border: 2px solid #623b0c;
   border-radius: 8px;
+  padding: .5em .75em .6em;
 }
 
 p {
-  margin: 0 1rem auto;
+  margin: 0 0 auto;
+  padding-bottom: 1.5rem;
 }
 
 a {
@@ -61,6 +67,6 @@ a {
   text-decoration: none;
   text-align: left;
   color: #fff;
-  margin: 1.5rem;
+  margin: 0;
   padding: .5em .75em .6em;
 }
