@@ -35,7 +35,6 @@ h1 {
 h2 {
   font-family: "Denk One", sans-serif;
   color: #623b0c;
-  margin-top: 1rem;
 }
 
 ol {
@@ -55,7 +54,7 @@ li {
   background-color: #ede3db;
   border: 2px solid #623b0c;
   border-radius: 8px;
-  padding: .5em .6em;
+  padding: .5em .75em .6em;
 }
 
 p {
