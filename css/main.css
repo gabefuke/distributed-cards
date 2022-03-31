@@ -29,7 +29,7 @@ h1 {
   color: #623b0c;
   padding: 1rem;
   padding-bottom: 0;
-  padding-top: 0;
+  margin: 0;
 }
 
 h2 {
